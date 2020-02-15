@@ -1,0 +1,22 @@
+
+public class Ex07 {
+
+	public static void main(String[] args) {
+		// 숫자 중에서 3, 6, 9가 포함되어 있는 경우 
+		// 포함된 개수만큼 박수를 치는 게임
+		
+		for(int i = 0; i < 101; i++) {
+			System.out.printf("i : %d", i);
+			
+			int tmp = i;
+			
+			do { 
+				if(tmp%10%3 == 0 && tmp%10 != 0) {
+					System.out.print("짝");
+				}while
+			}
+		}
+
+	}
+
+}

@@ -1,0 +1,17 @@
+
+public class Ex05 {
+
+	public static void main(String[] args) {
+		int num = 0;
+		int sum = 0;
+		boolean flag = true;  // while문의 조건식으로 사용될 변수
+		
+		System.out.println(:"합계를 구할 숫자를 입력하세요 (종료는 0을 입력하세요) \n-->";
+
+		while(flag) { // flag 값을 true로 초기화 했으므로 조건식이 참이 됨
+			
+			System.out.print(">>");
+		}
+	}
+
+}

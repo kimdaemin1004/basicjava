@@ -1,0 +1,17 @@
+		0.0부터 1 미만의 실수(double)를 반환함
+		1부터 10까지의 정수 중에서 임의의 숫자 반환
+		
+		0.0 <= Math.random() < 1.0
+		
+		0.0*10 <= Math.random()*10 < 1.0*10
+		
+		0 + 1 <= (int)Math.random()*10 + 1 < 10 + 1
+		    1 <= (int)Math.random()*10 + 1 < 11
+		
+		(int)Math.random()*10 + 1
+		
+		(int)Math.random()*100 + 1
+		
+		(int)Math.random()*50 + 1
+		
+		(int)Math.random()*7 + 1

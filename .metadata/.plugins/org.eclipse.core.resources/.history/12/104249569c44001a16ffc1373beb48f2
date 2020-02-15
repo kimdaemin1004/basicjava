@@ -1,0 +1,15 @@
+
+public class Ex02 {
+	public static void main(String[] args) {
+		
+	int i = 11;
+	
+	System.out.println("countdown Ω√¿€ !!!");
+	
+	while(i-- != 0) {
+		
+		for(int j = 0; j < 2000000000; )
+	}
+	}
+
+}

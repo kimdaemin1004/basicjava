@@ -1,0 +1,20 @@
+public class Ex02 {
+   public static void main(String[] args) {
+      int i = 11;
+      
+      System.out.println("countdown 시작 !!!");
+      i
+      while(i-- != 0) { // --
+         System.out.println(i);
+         
+         // 단순히 실행을 지연시키는 for문
+         for(int j = 0; j < 2000000000; j++) {
+            ;  // 아무 내용없이 ; 만
+         }
+      }
+      
+      System.out.println("terminate !!!");
+            
+   }
+
+}

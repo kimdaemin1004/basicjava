@@ -1,0 +1,15 @@
+package day09;
+
+public class Ex01 {
+	public static void main(String[] args) {
+		// while(Á¶°Ç½Ä)
+		
+		int i = 5;
+		
+		while(i-- != 0 ) {
+			System.out.println(i + );
+		}
+
+	}
+
+}
